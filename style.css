@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #000;
+    color: #f6f6f6;
+}
+.titulo-destaque{
+    color: #22D4FD;
+}
+.apresentacao{
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apresentacao__conteudo{
+    width: 615px;
+    height: 482px;
+    top: 278px;
+    left: 357px;
+}
+.imagem{
+    width: 488px;
+    height: 550px;
+    top: 235px;
+    left: 1030px;
+    border: 16px;
+}
+.titulo{
+    font-size: 36px;
+}
+.paragrafo{
+    font-size: 24px;
+}
